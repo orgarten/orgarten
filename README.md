@@ -1,6 +1,6 @@
 ### Hi there, I am Orell 👋
 
-I am an engineer passionate about computational engineering. My first introduction to this field was creating custom simulation algorithms to siimulate wave propagation in a space-application. From there I kept digging deeper, especially into ray-tracing based simulation methods.
+I am an engineer passionate about computational engineering. My first introduction to this field was creating custom simulation algorithms to simulate wave propagation in a space-application. From there I kept digging deeper, especially into ray-tracing based simulation methods.
 
 Besides that, for about 2 years I tried to start several startups in the field of computational engineering. During this time I gained a lof of experience beyong the technical side of things.
 
