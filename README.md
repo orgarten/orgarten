@@ -11,10 +11,10 @@ I am open for contracting.
 ✉️ [Contact me](mailto:hello@orellgarten.com) (Encrytion via [PGP key](https://raw.githubusercontent.com/orgarten/orgarten/main/publickey.hello%40orellgarten.com-3adbe503c2d9666c6a9e6f3a3cb8e7dd613d8593.asc)).
 
 - 🔭 I'm always open for new opportunities in:
-  - consulting and software engioneering in computational fields
+  - consulting and software engineering in computational fields
   - code reviews and code optimization
   - RF engineering consulting
-  - General software engineering in C++ and Python
+  - general software engineering in C++ and Python
 - 💬 Ask me anything about computational engineering, C++ & Python, and RF engineering.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ogarten/) or send me an [email](mailto:hello@orellgarten.com) (Encrytion via [PGP key](https://raw.githubusercontent.com/orgarten/orgarten/main/publickey.hello%40orellgarten.com-3adbe503c2d9666c6a9e6f3a3cb8e7dd613d8593.asc)).
   
