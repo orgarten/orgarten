@@ -12,8 +12,8 @@ I am open for contracting.
 
 - 🔭 I'm always open for new opportunities in:
   - consulting and software engineering in computational fields
+  - data engineering, especially in the context of computation
   - code reviews and code optimization
-  - RF engineering consulting
   - general software engineering in C++ and Python
 - 💬 Ask me anything about computational engineering, C++ & Python, and RF engineering.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ogarten/) or send me an [email](mailto:hello@orellgarten.com) (Encrytion via [PGP key](https://raw.githubusercontent.com/orgarten/orgarten/main/publickey.hello%40orellgarten.com-3adbe503c2d9666c6a9e6f3a3cb8e7dd613d8593.asc)).
