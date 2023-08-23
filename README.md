@@ -1,20 +1,20 @@
 ### Hi there, I am Orell 👋
 
-I am an engineer passionate about computational engineering. My first introduction to this field was creating custom simulation algorithms to simulate wave propagation in a space-application. From there I kept digging deeper, especially into ray-tracing based simulation methods.
+I am a software engineer with focus on connecting the physical and digital world. Moving data between devices and systems for computing and analysis is one of the things I have enjoyed doing in past projects. 
 
-Besides that, for about 2 years I tried to start several startups in the field of computational engineering. During this time I gained a lof of experience beyong the technical side of things.
+I have more than 5 years of experience in algorithm and software development for different use cases. I usually code in C++ and Python and use cloud providers for deployment. I am always open to learning new things. 
 
-My main tech stack is based on C++, Python and Linux but I am always open to learning new things.
+Techwise, I like to work with Python, C++, Linux and cloud-based services but I am always open to learning new things.
 
 I am open for contracting.
 
 ✉️ [Contact me](mailto:hello@orellgarten.com) (Encrytion via [PGP key](https://raw.githubusercontent.com/orgarten/orgarten/main/publickey.hello%40orellgarten.com-3adbe503c2d9666c6a9e6f3a3cb8e7dd613d8593.asc)).
 
 - 🔭 I'm always open for new opportunities in:
-  - consulting and software engineering in computational fields
+  - consulting and software engineering 
   - data engineering, especially in the context of computation
   - code reviews and code optimization
-  - general software engineering in C++ and Python
-- 💬 Ask me anything about computational engineering, C++ & Python, and RF engineering.
+  - general software engineering in Python and C++
+- 💬 Ask me anything about Python & C++, software engineering, data systems and IoT
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ogarten/) or send me an [email](mailto:hello@orellgarten.com) (Encrytion via [PGP key](https://raw.githubusercontent.com/orgarten/orgarten/main/publickey.hello%40orellgarten.com-3adbe503c2d9666c6a9e6f3a3cb8e7dd613d8593.asc)).
   
