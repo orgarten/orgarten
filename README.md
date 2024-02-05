@@ -12,7 +12,7 @@ I am open for contracting.
 
 - 🔭 I'm always open for new opportunities in:
   - consulting and software engineering 
-  - data engineering, especially in the context of computation
+  - data engineering, especially in the context of engineering and operations
   - code reviews and code optimization
   - general software engineering in Python and C++
 - 💬 Ask me anything about Python & C++, software engineering, data systems and IoT
